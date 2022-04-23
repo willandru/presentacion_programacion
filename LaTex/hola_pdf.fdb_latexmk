@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1650730151 "hola_pdf.tex" "hola_pdf.pdf" "hola_pdf" 1650730151
+  "/etc/texmf/web2c/texmf.cnf" 1643480915 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1642022539 29921 f0f4f870357ebfb8fe58ed9ed4ee9b92 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1650729497 4379155 98693266ff65f58d9f98aff394de12d2 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1650729582 2799188 c6d9238c57f5655fcb60975cad5f173d ""
+  "hola_pdf.aux" 1650730151 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hola_pdf.tex" 1650730112 100 e47ad3808b3c8d1730e60233e187256f ""
+  (generated)
+  "hola_pdf.aux"
+  "hola_pdf.log"
+  "hola_pdf.pdf"
